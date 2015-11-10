@@ -1,3 +1,8 @@
 File created on github to test how this gets pulled down to local git repo
 
+<<<<<<< HEAD:docs/testclone2.local.md.git
 modify same file on git and github - this is the git version
+=======
+
+now modify same file on github and locally - this is github version
+>>>>>>> f6cf2678dbed71b4423fa50a04b6ec295862f1ac:docs/testclone2.local.md
