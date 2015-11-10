@@ -6,3 +6,4 @@
 * Favorite food: Pasta
 * Hobby: Golf
 * Favorite color: Black
+* Education: BSc
